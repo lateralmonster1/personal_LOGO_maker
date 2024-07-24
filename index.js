@@ -57,8 +57,11 @@ const init = () => {
     const svgContent = generateSVG(answers.text, answers.textColor, answers.shape, answers.shapeColor);
     fs.writeFileSync('logo.svg', svgContent);
     console.log('Generated logo.svg');
+  }).catch(error => {
+    console.error('Error:', error);
   });
 };
 
 // Function call to initialize app
 init();
+
