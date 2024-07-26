@@ -16,6 +16,10 @@
   
     ## Installation
     Clone the repo, Initialize a Node.js project,Install required packages, create project files.
+  ![IMG_6080](https://github.com/user-attachments/assets/198c2895-3bf3-42a1-9a81-011ccdbebf54)
+  ![IMG_6081](https://github.com/user-attachments/assets/99455bae-f64d-44e4-b0a3-99cdd947c353)
+
+
   
     ## Usage
     When generated in terminal by "npm start", follow the prompts and once finished, use file that downloads on desktop
